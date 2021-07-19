@@ -54,7 +54,7 @@
   cursor: pointer;
 }
 .boxed-btn:hover {
-  background: #ff5f21;
+  background-color: rosybrown;
   color: #fff !important;
   border: 1px solid #ff5f21;
 }
@@ -2047,6 +2047,9 @@ hr {
   background-position: center center;
   background-attachment: fixed;
 }
+.header-sticky.sticky-bar{
+
+}
 .section-bg2 {
   background-size: cover;
   background-repeat: no-repeat;
@@ -2233,7 +2236,7 @@ hr {
   z-index: 9;
 }
 .header-sticky.sticky-bar {
-  background: #ff7b47;
+  background-color: #fc00ff;
 }
 .header-sticky.sticky-bar.sticky .main-menu ul li a {
   padding: 20px 20px !important;
@@ -2328,8 +2331,7 @@ hr {
     min-height: 320px;
   }
 }
-.slider-bg1 {
-  background-image: url(../img/hero/h1_hero1.png);
+.slider-bg1 {background-image: url(https://www.letribunaldunet.fr/wp-content/uploads/2018/08/chelou.jpeg) ;
 }
 .slider-bg2 {
   background-image: url(../img/hero/h1_hero2.png);
